@@ -19,4 +19,4 @@ Contributions welcome.
 [issues-shield]: https://img.shields.io/github/issues/armstrtw/py.misc.svg?style=for-the-badge
 [issues-url]: https://github.com/armstrtw/py.misc/issues
 [license-shield]: https://img.shields.io/github/license/armstrtw/py.misc.svg?style=for-the-badge
-[license-url]: https://github.com/armstrtw/py.misc/blob/master/LICENSE.txt
+[license-url]: https://github.com/armstrtw/py.misc/blob/master/LICENSE
